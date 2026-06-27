@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mistralai
+chromadb
+streamlit
+pymupdf
+pandas
+python-dotenv
+pydantic
+python-multipart
